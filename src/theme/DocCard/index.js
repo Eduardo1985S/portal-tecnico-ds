@@ -11,9 +11,9 @@ import isInternalUrl from '@docusaurus/isInternalUrl';
 import Layout from '@theme/DocCard/Layout';
 function getFallbackEmojiIcon(item) {
   if (item.type === 'category') {
-    return '🗃';
+    return <i className="fa-solid fa-folder"></i>;
   }
-  return isInternalUrl(item.href) ? '📄️' : '🔗';
+  return isInternalUrl(item.href) ? <i className="fa-solid fa-file-lines"></i> : <i className="fa-solid fa-arrow-up-right-from-square"></i>;
 }
 function getIconTitleProps(item) {
   const extracted = extractLeadingEmoji(item.label);
