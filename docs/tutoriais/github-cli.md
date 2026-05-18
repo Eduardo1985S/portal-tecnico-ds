@@ -203,20 +203,3 @@ git push -u origin main
 
 ---
 
-## <i className="fa-solid fa-list-check"></i> Checklist de Entrega
-
-- [ ] Criei uma pasta para o projeto
-- [ ] Abri a pasta no VS Code
-- [ ] Criei o arquivo `README.md`
-- [ ] Configurei meu nome no Git
-- [ ] Configurei meu e-mail no Git
-- [ ] Usei `git init`
-- [ ] Usei `git status`
-- [ ] Usei `git add .`
-- [ ] Usei `git commit -m "primeiro commit"`
-- [ ] Criei o repositório no GitHub
-- [ ] Copiei a URL do repositório
-- [ ] Usei `git remote add origin`
-- [ ] Usei `git branch -M main`
-- [ ] Usei `git push -u origin main`
-- [ ] Conferi os arquivos no GitHub
