@@ -28,3 +28,18 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* --- Padronização dos Ícones (Font Awesome) --- */
+.fa-solid {
+  margin-right: 0.5rem; /* Espaçamento entre o ícone e o texto */
+  width: 1.25em; /* Fixed Width: garante que todos os ícones fiquem alinhados verticalmente */
+  text-align: center;
+  vertical-align: baseline; /* Alinhamento suave com o texto */
+}
+
+/* Remover margem extra do ícone de link externo e de pastas no DocCard para não ficar torto */
+article .fa-arrow-up-right-from-square,
+article .fa-folder,
+article .fa-file-lines {
+  margin-right: 0;
+}

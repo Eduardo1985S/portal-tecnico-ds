@@ -1,7 +1,7 @@
 ---
 id: tutoriais-github-desktop
 slug: /tutoriais/github-desktop
-sidebar_position: 4
+sidebar_position: 5
 title: Utilizar o GitHub Desktop
 description: Guia de instalação e primeiros passos com o GitHub Desktop, uma interface visual para o Git.
 ---

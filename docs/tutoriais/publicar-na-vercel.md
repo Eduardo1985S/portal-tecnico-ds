@@ -1,7 +1,7 @@
 ---
 id: tutoriais-publicar-na-vercel
 slug: /tutoriais/publicar-na-vercel
-sidebar_position: 5
+sidebar_position: 6
 title: Publicar na Vercel
 description: Aprenda a hospedar seu projeto web gratuitamente na plataforma Vercel.
 ---

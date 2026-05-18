@@ -1,7 +1,7 @@
 ---
 id: tutoriais-configurar-postgresql
 slug: /tutoriais/configurar-postgresql
-sidebar_position: 6
+sidebar_position: 7
 title: Instalar e Configurar o PostgreSQL
 description: Guia de instalação do banco de dados relacional PostgreSQL e do utilitário pgAdmin.
 ---
