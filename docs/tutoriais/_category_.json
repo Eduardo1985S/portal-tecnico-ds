@@ -1,0 +1,9 @@
+{
+  "label": "Tutoriais",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Materiais de Tutoriais",
+    "slug": "/tutoriais"
+  }
+}
