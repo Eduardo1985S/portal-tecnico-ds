@@ -63,4 +63,4 @@ O aplicativo deve ser um **portfólio do próprio aluno** simulando um candidato
 
 Essa é a sua chance de se destacar e sair na frente no mercado! Trate esse desafio técnico como se fosse a sua grande oportunidade profissional. Capriche nos estilos, implemente micro-interações, use um tema visual elegante e capriche no portfólio. A sua capacidade de documentar e apresentar soluções é tão valiosa quanto as linhas de código que você escreve. Boa sorte, desenvolvedor! 🚀
 
-<!-- CHECKPOINT id="ckpt_mpcpvld4_34udw3" time="2026-05-19T14:17:07.048Z" note="auto" fixes=0 questions=0 highlights=0 sections="" -->
+{/* CHECKPOINT id="ckpt_mpcpvld4_34udw3" time="2026-05-19T14:17:07.048Z" note="auto" fixes=0 questions=0 highlights=0 sections="" */}
