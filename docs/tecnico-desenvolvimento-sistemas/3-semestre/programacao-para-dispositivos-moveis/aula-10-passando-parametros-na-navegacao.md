@@ -6,7 +6,7 @@ title: "Aula 10 — Passando Parâmetros na Navegação"
 description: "Aula 10 do curso de Programação para Dispositivos Móveis - Transferência de Dados entre Telas com route.params"
 ---
 
-# Aula 10 — Passando Parâmetros na Navegação
+## Aula 10 — Passando Parâmetros na Navegação
 
 ## <i className="fa-solid fa-bullseye" style={{ color: 'var(--ifm-color-primary)' }}></i> Objetivo da aula
 

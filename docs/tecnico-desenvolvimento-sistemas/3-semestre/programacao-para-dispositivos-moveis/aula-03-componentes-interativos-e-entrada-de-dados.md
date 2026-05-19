@@ -6,7 +6,7 @@ title: "Aula 03 — Componentes Interativos e Entrada de Dados"
 description: "Aula 03 do curso de Programação para Dispositivos Móveis - Inputs, Botões Personalizados e Imagens"
 ---
 
-# Aula 03 — Componentes Interativos e Entrada de Dados
+## Aula 03 — Componentes Interativos e Entrada de Dados
 
 ## <i className="fa-solid fa-bullseye" style={{ color: 'var(--ifm-color-primary)' }}></i> Objetivo da aula
 

@@ -6,7 +6,7 @@ title: "Aula 05 — Gerenciamento de Estado Local"
 description: "Aula 05 do curso de Programação para Dispositivos Móveis - Reatividade e Estados com useState"
 ---
 
-# Aula 05 — Gerenciamento de Estado Local
+## Aula 05 — Gerenciamento de Estado Local
 
 ## <i className="fa-solid fa-bullseye" style={{ color: 'var(--ifm-color-primary)' }}></i> Objetivo da aula
 

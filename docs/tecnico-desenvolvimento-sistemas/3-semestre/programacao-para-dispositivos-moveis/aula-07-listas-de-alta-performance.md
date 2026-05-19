@@ -6,7 +6,7 @@ title: "Aula 07 — Listas de Alta Performance"
 description: "Aula 07 do curso de Programação para Dispositivos Móveis - Listas otimizadas com FlatList"
 ---
 
-# Aula 07 — Listas de Alta Performance
+## Aula 07 — Listas de Alta Performance
 
 ## <i className="fa-solid fa-bullseye" style={{ color: 'var(--ifm-color-primary)' }}></i> Objetivo da aula
 

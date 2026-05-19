@@ -6,7 +6,7 @@ title: "Aula 04 — Layout e Posicionamento (Flexbox)"
 description: "Aula 04 do curso de Programação para Dispositivos Móveis - Alinhamentos e Estruturas Dinâmicas com Flexbox"
 ---
 
-# Aula 04 — Layout e Posicionamento (Flexbox)
+## Aula 04 — Layout e Posicionamento (Flexbox)
 
 ## <i className="fa-solid fa-bullseye" style={{ color: 'var(--ifm-color-primary)' }}></i> Objetivo da aula
 

@@ -6,7 +6,7 @@ title: "Aula 08 — Prática: App de Lista de Tarefas"
 description: "Aula 08 do curso de Programação para Dispositivos Móveis - Desenvolvimento Prático de um To-Do List Completo"
 ---
 
-# Aula 08 — Prática: App de Lista de Tarefas
+## Aula 08 — Prática: App de Lista de Tarefas
 
 ## <i className="fa-solid fa-bullseye" style={{ color: 'var(--ifm-color-primary)' }}></i> Objetivo da aula
 

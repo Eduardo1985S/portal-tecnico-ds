@@ -6,7 +6,7 @@ title: "Aula 02 — Componentes Estruturais Básicos"
 description: "Aula 02 do curso de Programação para Dispositivos Móveis - Componentes Básicos View, Text e StyleSheet"
 ---
 
-# Aula 02 — Componentes Estruturais Básicos
+## Aula 02 — Componentes Estruturais Básicos
 
 ## <i className="fa-solid fa-bullseye" style={{ color: 'var(--ifm-color-primary)' }}></i> Objetivo da aula
 

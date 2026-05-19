@@ -6,7 +6,7 @@ title: "Aula 01 — Configuração do Ambiente"
 description: "Aula 01 do curso de Programação para Dispositivos Móveis - Configuração do Ambiente Expo"
 ---
 
-# Aula 01 — Configuração do Ambiente
+## Aula 01 — Configuração do Ambiente
 
 ## <i className="fa-solid fa-bullseye" style={{ color: 'var(--ifm-color-primary)' }}></i> Objetivo da aula
 

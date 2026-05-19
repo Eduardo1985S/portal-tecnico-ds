@@ -6,7 +6,7 @@ title: "Aula 11 — Navegação em Abas (Tab Navigation)"
 description: "Aula 11 do curso de Programação para Dispositivos Móveis - Menus Inferiores com Bottom Tab Navigation"
 ---
 
-# Aula 11 — Navegação em Abas (Tab Navigation)
+## Aula 11 — Navegação em Abas (Tab Navigation)
 
 ## <i className="fa-solid fa-bullseye" style={{ color: 'var(--ifm-color-primary)' }}></i> Objetivo da aula
 

@@ -6,7 +6,7 @@ title: "Aula 09 — Introdução ao React Navigation"
 description: "Aula 09 do curso de Programação para Dispositivos Móveis - Navegação em Pilha com Stack Navigation"
 ---
 
-# Aula 09 — Introdução ao React Navigation
+## Aula 09 — Introdução ao React Navigation
 
 ## <i className="fa-solid fa-bullseye" style={{ color: 'var(--ifm-color-primary)' }}></i> Objetivo da aula
 

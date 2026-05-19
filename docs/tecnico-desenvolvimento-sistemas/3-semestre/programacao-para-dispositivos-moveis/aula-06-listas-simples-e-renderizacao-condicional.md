@@ -6,7 +6,7 @@ title: "Aula 06 — Listas Simples e Renderização Condicional"
 description: "Aula 06 do curso de Programação para Dispositivos Móveis - Listas com .map() e Renderização Condicional"
 ---
 
-# Aula 06 — Listas Simples e Renderização Condicional
+## Aula 06 — Listas Simples e Renderização Condicional
 
 ## <i className="fa-solid fa-bullseye" style={{ color: 'var(--ifm-color-primary)' }}></i> Objetivo da aula
 
