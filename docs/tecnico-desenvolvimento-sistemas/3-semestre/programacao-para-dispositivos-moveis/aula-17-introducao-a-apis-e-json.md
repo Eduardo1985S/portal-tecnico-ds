@@ -6,7 +6,7 @@ title: "Aula 17 — Introdução a APIs e JSON"
 description: "Aula 17 do curso de Programação para Dispositivos Móveis - O que são APIs RESTful e formatação de dados em JSON"
 ---
 
-# Aula 17 — Introdução a APIs e JSON
+## Aula 17 — Introdução a APIs e JSON
 
 ## <i className="fa-solid fa-bullseye" style={{ color: 'var(--ifm-color-primary)' }}></i> Objetivo da aula
 

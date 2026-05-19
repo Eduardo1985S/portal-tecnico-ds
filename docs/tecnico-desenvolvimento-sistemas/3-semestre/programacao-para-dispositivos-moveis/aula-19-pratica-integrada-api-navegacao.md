@@ -6,7 +6,7 @@ title: "Aula 19 — Prática Integrada (API + Navegação)"
 description: "Aula 19 do curso de Programação para Dispositivos Móveis - Criando um fluxo completo Master-Detail integrado com API"
 ---
 
-# Aula 19 — Prática Integrada (API + Navegação)
+## Aula 19 — Prática Integrada (API + Navegação)
 
 ## <i className="fa-solid fa-bullseye" style={{ color: 'var(--ifm-color-primary)' }}></i> Objetivo da aula
 

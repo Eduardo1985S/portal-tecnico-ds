@@ -6,7 +6,7 @@ title: "Aula 18 — Consumindo API (Método GET) com Fetch"
 description: "Aula 18 do curso de Programação para Dispositivos Móveis - Fazendo requisições HTTP GET assíncronas com fetch"
 ---
 
-# Aula 18 — Consumindo API (Método GET) com Fetch
+## Aula 18 — Consumindo API (Método GET) com Fetch
 
 ## <i className="fa-solid fa-bullseye" style={{ color: 'var(--ifm-color-primary)' }}></i> Objetivo da aula
 
