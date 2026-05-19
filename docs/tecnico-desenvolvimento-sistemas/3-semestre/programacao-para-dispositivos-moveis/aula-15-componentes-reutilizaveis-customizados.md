@@ -6,7 +6,7 @@ title: "Aula 15 — Componentes Reutilizáveis Customizados"
 description: "Aula 15 do curso de Programação para Dispositivos Móveis - Criando componentes com props dinâmicas no React Native"
 ---
 
-# Aula 15 — Componentes Reutilizáveis Customizados
+## Aula 15 — Componentes Reutilizáveis Customizados
 
 ## <i className="fa-solid fa-bullseye" style={{ color: 'var(--ifm-color-primary)' }}></i> Objetivo da aula
 

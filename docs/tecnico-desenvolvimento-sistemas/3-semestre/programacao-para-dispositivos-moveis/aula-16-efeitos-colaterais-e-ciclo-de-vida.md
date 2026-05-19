@@ -6,7 +6,7 @@ title: "Aula 16 — Efeitos Colaterais e Ciclo de Vida"
 description: "Aula 16 do curso de Programação para Dispositivos Móveis - Dominando o hook useEffect e o ciclo de vida"
 ---
 
-# Aula 16 — Efeitos Colaterais e Ciclo de Vida
+## Aula 16 — Efeitos Colaterais e Ciclo de Vida
 
 ## <i className="fa-solid fa-bullseye" style={{ color: 'var(--ifm-color-primary)' }}></i> Objetivo da aula
 

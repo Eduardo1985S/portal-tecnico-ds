@@ -6,7 +6,7 @@ title: "Aula 20 — Revisão Geral e Fechamento"
 description: "Aula 20 do curso de Programação para Dispositivos Móveis - Revisão Geral e Simulação de Desafio Técnico para Vaga Real de Desenvolvedor Mobile Júnior"
 ---
 
-# Aula 20 — Revisão Geral e Fechamento
+## Aula 20 — Revisão Geral e Fechamento
 
 ## <i className="fa-solid fa-bullseye" style={{ color: 'var(--ifm-color-primary)' }}></i> Objetivo da aula
 
