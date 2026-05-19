@@ -2,10 +2,10 @@
 id: projetos-projeto-tcc
 slug: /projetos/projeto-tcc
 sidebar_position: 4
-title: Projeto TCC
-description: Descrição do material
+title: Projeto Integrador Final
+description: Diretrizes e especificações para o Projeto Integrador Final do curso técnico
 ---
 
-# Projeto TCC
+## Projeto Integrador Final 🚀
 
-Conteúdo do material.
+Este espaço é dedicado à consolidação e acompanhamento das diretrizes do **Projeto Integrador Final** do curso técnico em Desenvolvimento de Sistemas.
