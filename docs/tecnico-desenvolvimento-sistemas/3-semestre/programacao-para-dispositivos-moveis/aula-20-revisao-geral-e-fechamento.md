@@ -65,4 +65,4 @@ Essa é a sua chance de se destacar e sair na frente no mercado! Trate esse desa
 
 {/* CHECKPOINT id="ckpt_mpcpvld4_34udw3" time="2026-05-19T14:17:07.048Z" note="auto" fixes=0 questions=0 highlights=0 sections="" */}
 
-<!-- CHECKPOINT id="ckpt_mpcq8gbr_bood3p" time="2026-05-19T14:27:07.047Z" note="auto" fixes=0 questions=0 highlights=0 sections="" -->
+{/* CHECKPOINT id="ckpt_mpcq8gbr_bood3p" time="2026-05-19T14:27:07.047Z" note="auto" fixes=0 questions=0 highlights=0 sections="" */}
