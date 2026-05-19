@@ -1,12 +1,12 @@
 ---
-id: tecnico-desenvolvimento-sistemas-1-semestre-logica-de-programacao-e-algoritmos-aula-03-operadores
-slug: /tecnico-desenvolvimento-sistemas/1-semestre/logica-de-programacao-e-algoritmos/aula-03-operadores
-sidebar_position: 3
-title: Aula 03 — Operadores
-description: Descrição breve da aula
+id: tecnico-desenvolvimento-sistemas-1-semestre-logica-de-programacao-e-algoritmos-aula-14-operadores-e-tipos-de-dados-no-js
+slug: /tecnico-desenvolvimento-sistemas/1-semestre/logica-de-programacao-e-algoritmos/aula-14-operadores-e-tipos-de-dados-no-js
+sidebar_position: 14
+title: Aula 14 — Operadores e Tipos de Dados no JS
+description: Aula 14 do curso de Lógica de Programação e Algoritmos
 ---
 
-# Aula 03 — Operadores
+# Aula 14 — Operadores e Tipos de Dados no JS
 
 ## <i className="fa-solid fa-bullseye" style={{ color: 'var(--ifm-color-primary)' }}></i> Objetivo da aula
 

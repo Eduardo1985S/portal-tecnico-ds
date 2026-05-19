@@ -1,12 +1,12 @@
 ---
-id: tecnico-desenvolvimento-sistemas-1-semestre-logica-de-programacao-e-algoritmos-aula-05-lacos-de-repeticao
-slug: /tecnico-desenvolvimento-sistemas/1-semestre/logica-de-programacao-e-algoritmos/aula-05-lacos-de-repeticao
-sidebar_position: 5
-title: Aula 05 — Laços de Repetição
-description: Descrição breve da aula
+id: tecnico-desenvolvimento-sistemas-1-semestre-logica-de-programacao-e-algoritmos-aula-11-introducao-ao-git
+slug: /tecnico-desenvolvimento-sistemas/1-semestre/logica-de-programacao-e-algoritmos/aula-11-introducao-ao-git
+sidebar_position: 11
+title: Aula 11 — Introdução ao Git
+description: Aula 11 do curso de Lógica de Programação e Algoritmos
 ---
 
-# Aula 05 — Laços de Repetição
+# Aula 11 — Introdução ao Git
 
 ## <i className="fa-solid fa-bullseye" style={{ color: 'var(--ifm-color-primary)' }}></i> Objetivo da aula
 

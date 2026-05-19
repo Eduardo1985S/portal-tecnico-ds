@@ -1,12 +1,12 @@
 ---
-id: tecnico-desenvolvimento-sistemas-1-semestre-logica-de-programacao-e-algoritmos-aula-02-variaveis-e-tipos
-slug: /tecnico-desenvolvimento-sistemas/1-semestre/logica-de-programacao-e-algoritmos/aula-02-variaveis-e-tipos
-sidebar_position: 2
-title: Aula 02 — Variáveis e Tipos
-description: Descrição breve da aula
+id: tecnico-desenvolvimento-sistemas-1-semestre-logica-de-programacao-e-algoritmos-aula-20-revisao-geral-e-projeto-final
+slug: /tecnico-desenvolvimento-sistemas/1-semestre/logica-de-programacao-e-algoritmos/aula-20-revisao-geral-e-projeto-final
+sidebar_position: 20
+title: Aula 20 — Revisão Geral e Projeto Final
+description: Aula 20 do curso de Lógica de Programação e Algoritmos
 ---
 
-# Aula 02 — Variáveis e Tipos
+# Aula 20 — Revisão Geral e Projeto Final
 
 ## <i className="fa-solid fa-bullseye" style={{ color: 'var(--ifm-color-primary)' }}></i> Objetivo da aula
 

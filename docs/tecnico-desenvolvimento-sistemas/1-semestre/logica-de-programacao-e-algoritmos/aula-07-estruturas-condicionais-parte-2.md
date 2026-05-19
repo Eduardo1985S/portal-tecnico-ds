@@ -1,12 +1,12 @@
 ---
-id: tecnico-desenvolvimento-sistemas-1-semestre-logica-de-programacao-e-algoritmos-aula-04-estrutura-se-senao
-slug: /tecnico-desenvolvimento-sistemas/1-semestre/logica-de-programacao-e-algoritmos/aula-04-estrutura-se-senao
-sidebar_position: 4
-title: Aula 04 — Estrutura Se/Senão
-description: Descrição breve da aula
+id: tecnico-desenvolvimento-sistemas-1-semestre-logica-de-programacao-e-algoritmos-aula-07-estruturas-condicionais-parte-2
+slug: /tecnico-desenvolvimento-sistemas/1-semestre/logica-de-programacao-e-algoritmos/aula-07-estruturas-condicionais-parte-2
+sidebar_position: 7
+title: Aula 07 — Estruturas Condicionais (Parte 2)
+description: Aula 07 do curso de Lógica de Programação e Algoritmos
 ---
 
-# Aula 04 — Estrutura Se/Senão
+# Aula 07 — Estruturas Condicionais (Parte 2)
 
 ## <i className="fa-solid fa-bullseye" style={{ color: 'var(--ifm-color-primary)' }}></i> Objetivo da aula
 

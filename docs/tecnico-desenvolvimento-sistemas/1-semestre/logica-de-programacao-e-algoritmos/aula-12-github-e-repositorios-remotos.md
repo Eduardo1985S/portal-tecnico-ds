@@ -1,12 +1,12 @@
 ---
-id: tecnico-desenvolvimento-sistemas-1-semestre-logica-de-programacao-e-algoritmos-aula-01-introducao-aos-algoritmos
-slug: /tecnico-desenvolvimento-sistemas/1-semestre/logica-de-programacao-e-algoritmos/aula-01-introducao-aos-algoritmos
-sidebar_position: 1
-title: Aula 01 — Introdução aos Algoritmos
-description: Descrição breve da aula
+id: tecnico-desenvolvimento-sistemas-1-semestre-logica-de-programacao-e-algoritmos-aula-12-github-e-repositorios-remotos
+slug: /tecnico-desenvolvimento-sistemas/1-semestre/logica-de-programacao-e-algoritmos/aula-12-github-e-repositorios-remotos
+sidebar_position: 12
+title: Aula 12 — GitHub e Repositórios Remotos
+description: Aula 12 do curso de Lógica de Programação e Algoritmos
 ---
 
-# Aula 01 — Introdução aos Algoritmos
+# Aula 12 — GitHub e Repositórios Remotos
 
 ## <i className="fa-solid fa-bullseye" style={{ color: 'var(--ifm-color-primary)' }}></i> Objetivo da aula
 
