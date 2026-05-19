@@ -6,7 +6,7 @@ title: "Aula 12 — Navegação em Gaveta (Drawer Navigation)"
 description: "Aula 12 do curso de Programação para Dispositivos Móveis - Menus Laterais Deslizantes com Drawer Navigation"
 ---
 
-# Aula 12 — Navegação em Gaveta (Drawer Navigation)
+## Aula 12 — Navegação em Gaveta (Drawer Navigation)
 
 ## <i className="fa-solid fa-bullseye" style={{ color: 'var(--ifm-color-primary)' }}></i> Objetivo da aula
 

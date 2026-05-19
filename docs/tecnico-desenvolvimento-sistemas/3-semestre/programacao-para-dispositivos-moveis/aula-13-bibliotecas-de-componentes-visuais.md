@@ -6,7 +6,7 @@ title: "Aula 13 — Bibliotecas de Componentes Visuais"
 description: "Aula 13 do curso de Programação para Dispositivos Móveis - Utilizando React Native Paper para UI/UX profissional"
 ---
 
-# Aula 13 — Bibliotecas de Componentes Visuais
+## Aula 13 — Bibliotecas de Componentes Visuais
 
 ## <i className="fa-solid fa-bullseye" style={{ color: 'var(--ifm-color-primary)' }}></i> Objetivo da aula
 

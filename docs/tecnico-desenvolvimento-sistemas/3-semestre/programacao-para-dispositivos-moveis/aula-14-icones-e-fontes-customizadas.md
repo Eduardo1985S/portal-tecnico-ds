@@ -6,7 +6,7 @@ title: "Aula 14 — Ícones e Fontes Customizadas"
 description: "Aula 14 do curso de Programação para Dispositivos Móveis - Utilizando @expo/vector-icons e Google Fonts com expo-font"
 ---
 
-# Aula 14 — Ícones e Fontes Customizadas
+## Aula 14 — Ícones e Fontes Customizadas
 
 ## <i className="fa-solid fa-bullseye" style={{ color: 'var(--ifm-color-primary)' }}></i> Objetivo da aula
 
