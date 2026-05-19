@@ -38,7 +38,7 @@ graph TD
 *   *Competência:* Construir aplicações mobile completas integradas com serviços em nuvem e fluxos modernos de navegação.
 
 #### <i className="fa-solid fa-microchip" style={{ color: '#F59E0B' }}></i> 4º Semestre — Engenharia Avançada & IoT
-*   **Foco:** Testes e qualidade de software, computação na nuvem, desenvolvimento de internet das coisas (IoT) integrado com microcontroladores e desenvolvimento do Trabalho de Conclusão de Curso (TCC).
+*   **Foco:** Testes e qualidade de software, computação na nuvem, desenvolvimento de internet das coisas (IoT) integrado com microcontroladores e consolidação do Projeto Integrador Final.
 *   *Competência:* Planejar, documentar, testar e implantar uma solução digital inovadora e escalável para problemas do mundo real.
 
 ---
@@ -60,6 +60,6 @@ Navegue facilmente pelos materiais complementares do portal:
 
 *   📝 **[Critérios de Avaliação e Escalas de Cotejo](../avaliacoes/criterios-de-avaliacao.md):** Entenda as rubricas pedagógicas de notas de laboratório.
 *   📖 **[Tutoriais de Instalação e Ambientes](../tutoriais/instalar-git.md):** Guias passo a passo para configurar Git, Expo, Node.js e Docker.
-*   📂 **[Modelos de Projetos e Relatórios](../modelos/modelo-relatorio.md):** Templates prontos de documentação, relatórios e slides de TCC.
-*   🚀 **[Diretrizes de Projetos Integradores](../projetos/projeto-tcc.md):** Desafios de projetos integradores de semestres anteriores e TCC.
+*   📂 **[Modelos de Projetos e Relatórios](../modelos/modelo-relatorio.md):** Templates prontos de documentação, relatórios e apresentações de projetos.
+*   🚀 **[Diretrizes de Projetos Integradores](../projetos/projeto-tcc.md):** Desafios e diretrizes de Projetos Integradores de semestres anteriores.
 
