@@ -10,20 +10,18 @@ description: Aula 16 do curso de Lógica de Programação e Algoritmos
 
 ## <i className="fa-solid fa-bullseye" style={{ color: 'var(--ifm-color-primary)' }}></i> Objetivo da aula
 
-Aprender a traduzir os laços de repetição do VisuAlg para o JavaScript, conhecendo o `while`, `do... while` e o famoso `for`, além de seus atalhos matemáticos.
+Aprender a traduzir os laços de repetição do VisuAlg para o JavaScript, conhecendo o `while` e o famoso `for`, além de seus atalhos matemáticos.
 
 ## <i className="fa-solid fa-book" style={{ color: 'var(--ifm-color-primary)' }}></i> Conteúdos trabalhados
 
-- Tradução do `enquanto` para `while` e do `repita` para `do... while`.
+- Tradução do `enquanto` para `while`.
 - Tradução do `para` para `for`.
 - Operadores de incremento (`i++`) e decremento (`i--`).
 
 ## <i className="fa-solid fa-brain" style={{ color: 'var(--ifm-color-primary)' }}></i> Explicação
 
-### O `while` e o `do... while`
-A lógica é idêntica à que já aprendemos.
-- O `while` (Enquanto) testa a condição antes de entrar no laço.
-- O `do... while` (Faça... Enquanto) executa o bloco primeiro, e só testa a condição no final, garantindo que rode pelo menos uma vez. *Cuidado: no VisuAlg a gente testava até ser verdadeiro. No JS, o bloco repete **enquanto** a condição for verdadeira!*
+### O `while` (Enquanto)
+A lógica é idêntica à que já aprendemos: ele testa a condição antes de entrar no laço. O bloco de código se repete **enquanto** a condição for verdadeira!
 
 ### O `for` e os Operadores de Atalho
 No VisuAlg, escrevíamos `contador <- contador + 1`. No JavaScript, usamos o atalho **`++`** para somar 1 e **`--`** para subtrair 1. 
