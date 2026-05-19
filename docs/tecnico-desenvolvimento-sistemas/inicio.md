@@ -82,3 +82,5 @@ Navegue facilmente pelos materiais complementares do portal:
 <!-- CHECKPOINT id="ckpt_mpctg72g_aboifu" time="2026-05-19T15:57:07.144Z" note="auto" fixes=0 questions=0 highlights=0 sections="" -->
 
 <!-- CHECKPOINT id="ckpt_mpctt21g_wf9yzp" time="2026-05-19T16:07:07.156Z" note="auto" fixes=0 questions=0 highlights=0 sections="" -->
+
+<!-- CHECKPOINT id="ckpt_mpcu5x0e_qw43q4" time="2026-05-19T16:17:07.166Z" note="auto" fixes=0 questions=0 highlights=0 sections="" -->
