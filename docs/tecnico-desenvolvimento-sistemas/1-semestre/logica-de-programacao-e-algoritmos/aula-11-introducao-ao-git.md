@@ -23,6 +23,12 @@ Entender a importância do controle de versão no mercado de trabalho, instalar 
 ### O Fim do "Trabalho_Final_Versao_10_AgoraVai"
 Você já precisou fazer um trabalho em grupo onde os arquivos ficavam se multiplicando com nomes estranhos? No desenvolvimento de software, lidar com códigos que mudam todos os dias exige organização. O **Git** é um sistema de controle de versão que funciona como uma "máquina do tempo" para o seu código. Ele tira "fotos" (commits) de como o projeto estava em um determinado momento, permitindo voltar atrás se algo der errado.
 
+### Identificando o Autor (`git config`)
+Antes de tirar a primeira "foto" (commit) do seu código, o Git exige saber **quem** está fazendo isso. Imagine um trabalho em equipe onde várias pessoas alteram o mesmo arquivo; o Git precisa registrar quem foi o autor daquela alteração específica para manter a organização. Por isso, logo após instalar o Git, você deve se apresentar a ele rodando no terminal:
+- `git config --global user.name "Seu Nome"`
+- `git config --global user.email "seu.email@exemplo.com"`
+Isso só precisa ser feito uma única vez no seu computador!
+
 ### Os Comandos Essenciais
 O Git funciona através do terminal (linha de comando). Os passos iniciais são sempre:
 1. **`git init`**: Inicia o Git na sua pasta. Ele cria um cofre invisível.
