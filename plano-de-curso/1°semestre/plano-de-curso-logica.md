@@ -129,3 +129,5 @@ Este plano de curso foi desenhado para introduzir alunos ao mundo da programa√ß√
 <!-- CHECKPOINT id="ckpt_mpcje2pn_ua735x" time="2026-05-19T11:15:32.027Z" note="auto" fixes=0 questions=0 highlights=0 sections="" -->
 
 <!-- CHECKPOINT id="ckpt_mpcjqxom_lqygcx" time="2026-05-19T11:25:32.038Z" note="auto" fixes=0 questions=0 highlights=0 sections="" -->
+
+<!-- CHECKPOINT id="ckpt_mpck3sng_698nas" time="2026-05-19T11:35:32.044Z" note="auto" fixes=0 questions=0 highlights=0 sections="" -->
