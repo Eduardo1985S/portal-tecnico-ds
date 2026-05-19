@@ -1,12 +1,12 @@
 ---
-id: tecnico-desenvolvimento-sistemas-3-semestre-programacao-dispositivos-moveis-aula-07-listas-de-alta-performance
-slug: /tecnico-desenvolvimento-sistemas/3-semestre/programacao-dispositivos-moveis/aula-07-listas-de-alta-performance
-sidebar_position: 7
-title: Aula 07 — Listas de Alta Performance
-description: Aula 07 do curso de Programação para Dispositivos Móveis
+id: "tecnico-desenvolvimento-sistemas-3-semestre-programacao-para-dispositivos-moveis-aula-19-pratica-integrada-api-navegacao"
+slug: "/tecnico-desenvolvimento-sistemas/3-semestre/programacao-para-dispositivos-moveis/aula-19-pratica-integrada-api-navegacao"
+sidebar_position: 19
+title: "Aula 19 — Prática Integrada (API + Navegação)"
+description: "Aula 19 do curso de Programação para Dispositivos Móveis"
 ---
 
-# Aula 07 — Listas de Alta Performance
+# Aula 19 — Prática Integrada (API + Navegação)
 
 ## <i className="fa-solid fa-bullseye" style={{ color: 'var(--ifm-color-primary)' }}></i> Objetivo da aula
 

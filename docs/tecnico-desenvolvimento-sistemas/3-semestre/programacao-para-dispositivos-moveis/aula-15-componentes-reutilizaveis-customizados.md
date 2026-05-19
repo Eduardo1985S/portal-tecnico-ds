@@ -1,12 +1,12 @@
 ---
-id: tecnico-desenvolvimento-sistemas-3-semestre-programacao-dispositivos-moveis-aula-04-layout-e-posicionamento-flexbox
-slug: /tecnico-desenvolvimento-sistemas/3-semestre/programacao-dispositivos-moveis/aula-04-layout-e-posicionamento-flexbox
-sidebar_position: 4
-title: Aula 04 — Layout e Posicionamento (Flexbox)
-description: Aula 04 do curso de Programação para Dispositivos Móveis
+id: "tecnico-desenvolvimento-sistemas-3-semestre-programacao-para-dispositivos-moveis-aula-15-componentes-reutilizaveis-customizados"
+slug: "/tecnico-desenvolvimento-sistemas/3-semestre/programacao-para-dispositivos-moveis/aula-15-componentes-reutilizaveis-customizados"
+sidebar_position: 15
+title: "Aula 15 — Componentes Reutilizáveis Customizados"
+description: "Aula 15 do curso de Programação para Dispositivos Móveis"
 ---
 
-# Aula 04 — Layout e Posicionamento (Flexbox)
+# Aula 15 — Componentes Reutilizáveis Customizados
 
 ## <i className="fa-solid fa-bullseye" style={{ color: 'var(--ifm-color-primary)' }}></i> Objetivo da aula
 

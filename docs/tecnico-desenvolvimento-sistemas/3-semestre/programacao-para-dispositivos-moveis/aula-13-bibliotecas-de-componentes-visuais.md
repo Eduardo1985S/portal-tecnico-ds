@@ -1,12 +1,12 @@
 ---
-id: tecnico-desenvolvimento-sistemas-3-semestre-programacao-dispositivos-moveis-aula-12-navegao-em-gaveta-drawer-navigation
-slug: /tecnico-desenvolvimento-sistemas/3-semestre/programacao-dispositivos-moveis/aula-12-navegao-em-gaveta-drawer-navigation
-sidebar_position: 12
-title: Aula 12 — Navegação em Gaveta (Drawer Navigation)
-description: Aula 12 do curso de Programação para Dispositivos Móveis
+id: "tecnico-desenvolvimento-sistemas-3-semestre-programacao-para-dispositivos-moveis-aula-13-bibliotecas-de-componentes-visuais"
+slug: "/tecnico-desenvolvimento-sistemas/3-semestre/programacao-para-dispositivos-moveis/aula-13-bibliotecas-de-componentes-visuais"
+sidebar_position: 13
+title: "Aula 13 — Bibliotecas de Componentes Visuais"
+description: "Aula 13 do curso de Programação para Dispositivos Móveis"
 ---
 
-# Aula 12 — Navegação em Gaveta (Drawer Navigation)
+# Aula 13 — Bibliotecas de Componentes Visuais
 
 ## <i className="fa-solid fa-bullseye" style={{ color: 'var(--ifm-color-primary)' }}></i> Objetivo da aula
 

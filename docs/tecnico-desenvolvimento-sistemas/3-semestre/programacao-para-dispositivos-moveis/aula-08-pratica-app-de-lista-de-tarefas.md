@@ -1,12 +1,12 @@
 ---
-id: tecnico-desenvolvimento-sistemas-3-semestre-programacao-dispositivos-moveis-aula-19-prtica-integrada-api-navegao
-slug: /tecnico-desenvolvimento-sistemas/3-semestre/programacao-dispositivos-moveis/aula-19-prtica-integrada-api-navegao
-sidebar_position: 19
-title: Aula 19 — Prática Integrada (API + Navegação)
-description: Aula 19 do curso de Programação para Dispositivos Móveis
+id: "tecnico-desenvolvimento-sistemas-3-semestre-programacao-para-dispositivos-moveis-aula-08-pratica-app-de-lista-de-tarefas"
+slug: "/tecnico-desenvolvimento-sistemas/3-semestre/programacao-para-dispositivos-moveis/aula-08-pratica-app-de-lista-de-tarefas"
+sidebar_position: 8
+title: "Aula 08 — Prática: App de Lista de Tarefas"
+description: "Aula 08 do curso de Programação para Dispositivos Móveis"
 ---
 
-# Aula 19 — Prática Integrada (API + Navegação)
+# Aula 08 — Prática: App de Lista de Tarefas
 
 ## <i className="fa-solid fa-bullseye" style={{ color: 'var(--ifm-color-primary)' }}></i> Objetivo da aula
 

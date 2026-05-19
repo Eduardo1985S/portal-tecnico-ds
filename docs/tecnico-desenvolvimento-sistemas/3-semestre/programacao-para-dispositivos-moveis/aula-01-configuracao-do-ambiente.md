@@ -1,9 +1,9 @@
 ---
-id: tecnico-desenvolvimento-sistemas-3-semestre-programacao-dispositivos-moveis-aula-01-configurao-do-ambiente
-slug: /tecnico-desenvolvimento-sistemas/3-semestre/programacao-dispositivos-moveis/aula-01-configurao-do-ambiente
+id: "tecnico-desenvolvimento-sistemas-3-semestre-programacao-para-dispositivos-moveis-aula-01-configuracao-do-ambiente"
+slug: "/tecnico-desenvolvimento-sistemas/3-semestre/programacao-para-dispositivos-moveis/aula-01-configuracao-do-ambiente"
 sidebar_position: 1
-title: Aula 01 — Configuração do Ambiente
-description: Aula 01 do curso de Programação para Dispositivos Móveis
+title: "Aula 01 — Configuração do Ambiente"
+description: "Aula 01 do curso de Programação para Dispositivos Móveis - Configuração do Ambiente Expo"
 ---
 
 # Aula 01 — Configuração do Ambiente

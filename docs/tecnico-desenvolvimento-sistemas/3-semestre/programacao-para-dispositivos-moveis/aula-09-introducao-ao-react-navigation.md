@@ -1,12 +1,12 @@
 ---
-id: tecnico-desenvolvimento-sistemas-3-semestre-programacao-dispositivos-moveis-aula-16-efeitos-colaterais-e-ciclo-de-vida
-slug: /tecnico-desenvolvimento-sistemas/3-semestre/programacao-dispositivos-moveis/aula-16-efeitos-colaterais-e-ciclo-de-vida
-sidebar_position: 16
-title: Aula 16 — Efeitos Colaterais e Ciclo de Vida
-description: Aula 16 do curso de Programação para Dispositivos Móveis
+id: "tecnico-desenvolvimento-sistemas-3-semestre-programacao-para-dispositivos-moveis-aula-09-introducao-ao-react-navigation"
+slug: "/tecnico-desenvolvimento-sistemas/3-semestre/programacao-para-dispositivos-moveis/aula-09-introducao-ao-react-navigation"
+sidebar_position: 9
+title: "Aula 09 — Introdução ao React Navigation"
+description: "Aula 09 do curso de Programação para Dispositivos Móveis"
 ---
 
-# Aula 16 — Efeitos Colaterais e Ciclo de Vida
+# Aula 09 — Introdução ao React Navigation
 
 ## <i className="fa-solid fa-bullseye" style={{ color: 'var(--ifm-color-primary)' }}></i> Objetivo da aula
 

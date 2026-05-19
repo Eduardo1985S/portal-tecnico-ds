@@ -1,9 +1,9 @@
 ---
-id: tecnico-desenvolvimento-sistemas-3-semestre-programacao-dispositivos-moveis-aula-17-introduo-a-apis-e-json
-slug: /tecnico-desenvolvimento-sistemas/3-semestre/programacao-dispositivos-moveis/aula-17-introduo-a-apis-e-json
+id: "tecnico-desenvolvimento-sistemas-3-semestre-programacao-para-dispositivos-moveis-aula-17-introducao-a-apis-e-json"
+slug: "/tecnico-desenvolvimento-sistemas/3-semestre/programacao-para-dispositivos-moveis/aula-17-introducao-a-apis-e-json"
 sidebar_position: 17
-title: Aula 17 — Introdução a APIs e JSON
-description: Aula 17 do curso de Programação para Dispositivos Móveis
+title: "Aula 17 — Introdução a APIs e JSON"
+description: "Aula 17 do curso de Programação para Dispositivos Móveis"
 ---
 
 # Aula 17 — Introdução a APIs e JSON

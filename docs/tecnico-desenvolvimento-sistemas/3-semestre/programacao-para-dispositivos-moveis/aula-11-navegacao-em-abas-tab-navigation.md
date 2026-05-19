@@ -1,12 +1,12 @@
 ---
-id: tecnico-desenvolvimento-sistemas-3-semestre-programacao-para-dispositivos-moveis-aula-05-navegacao-stack
-slug: /tecnico-desenvolvimento-sistemas/3-semestre/programacao-para-dispositivos-moveis/aula-05-navegacao-stack
-sidebar_position: 5
-title: Aula 05 — Navegação Stack
-description: Descrição breve da aula
+id: "tecnico-desenvolvimento-sistemas-3-semestre-programacao-para-dispositivos-moveis-aula-11-navegacao-em-abas-tab-navigation"
+slug: "/tecnico-desenvolvimento-sistemas/3-semestre/programacao-para-dispositivos-moveis/aula-11-navegacao-em-abas-tab-navigation"
+sidebar_position: 11
+title: "Aula 11 — Navegação em Abas (Tab Navigation)"
+description: "Aula 11 do curso de Programação para Dispositivos Móveis"
 ---
 
-# Aula 05 — Navegação Stack
+# Aula 11 — Navegação em Abas (Tab Navigation)
 
 ## <i className="fa-solid fa-bullseye" style={{ color: 'var(--ifm-color-primary)' }}></i> Objetivo da aula
 
@@ -33,10 +33,9 @@ Descreva uma atividade para o aluno praticar o conteúdo.
 ## <i className="fa-solid fa-list-check" style={{ color: 'var(--ifm-color-primary)' }}></i> Checklist de entrega
 
 - [ ] O aluno realizou a atividade proposta
-- [ ] O aluno organizou os arquivos corretamente
-- [ ] O aluno testou o que foi desenvolvido
-- [ ] O aluno entregou no formato solicitado
+- [ ] O aluno testou no emulador ou aparelho físico
+- [ ] O aluno subiu o código para o GitHub
 
-## <i className="fa-solid fa-clipboard" style={{ color: 'var(--ifm-color-primary)' }}></i> Observações do professor
+## <i className="fa-solid fa-rocket" style={{ color: 'var(--ifm-color-primary)' }}></i> Agora é com você!
 
-Espaço para anotações, adaptações e orientações adicionais.
+Espaço para o desafio final para encorajar o protagonismo do aluno.

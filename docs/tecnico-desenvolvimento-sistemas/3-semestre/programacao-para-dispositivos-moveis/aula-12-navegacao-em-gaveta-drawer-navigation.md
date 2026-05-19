@@ -1,12 +1,12 @@
 ---
-id: tecnico-desenvolvimento-sistemas-3-semestre-programacao-dispositivos-moveis-aula-20-reviso-geral-e-fechamento
-slug: /tecnico-desenvolvimento-sistemas/3-semestre/programacao-dispositivos-moveis/aula-20-reviso-geral-e-fechamento
-sidebar_position: 20
-title: Aula 20 — Revisão Geral e Fechamento
-description: Aula 20 do curso de Programação para Dispositivos Móveis
+id: "tecnico-desenvolvimento-sistemas-3-semestre-programacao-para-dispositivos-moveis-aula-12-navegacao-em-gaveta-drawer-navigation"
+slug: "/tecnico-desenvolvimento-sistemas/3-semestre/programacao-para-dispositivos-moveis/aula-12-navegacao-em-gaveta-drawer-navigation"
+sidebar_position: 12
+title: "Aula 12 — Navegação em Gaveta (Drawer Navigation)"
+description: "Aula 12 do curso de Programação para Dispositivos Móveis"
 ---
 
-# Aula 20 — Revisão Geral e Fechamento
+# Aula 12 — Navegação em Gaveta (Drawer Navigation)
 
 ## <i className="fa-solid fa-bullseye" style={{ color: 'var(--ifm-color-primary)' }}></i> Objetivo da aula
 

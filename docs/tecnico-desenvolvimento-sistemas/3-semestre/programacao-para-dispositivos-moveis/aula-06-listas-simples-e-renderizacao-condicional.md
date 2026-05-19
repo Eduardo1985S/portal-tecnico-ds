@@ -1,12 +1,12 @@
 ---
-id: tecnico-desenvolvimento-sistemas-3-semestre-programacao-dispositivos-moveis-aula-05-gerenciamento-de-estado-local
-slug: /tecnico-desenvolvimento-sistemas/3-semestre/programacao-dispositivos-moveis/aula-05-gerenciamento-de-estado-local
-sidebar_position: 5
-title: Aula 05 — Gerenciamento de Estado Local
-description: Aula 05 do curso de Programação para Dispositivos Móveis
+id: "tecnico-desenvolvimento-sistemas-3-semestre-programacao-para-dispositivos-moveis-aula-06-listas-simples-e-renderizacao-condicional"
+slug: "/tecnico-desenvolvimento-sistemas/3-semestre/programacao-para-dispositivos-moveis/aula-06-listas-simples-e-renderizacao-condicional"
+sidebar_position: 6
+title: "Aula 06 — Listas Simples e Renderização Condicional"
+description: "Aula 06 do curso de Programação para Dispositivos Móveis"
 ---
 
-# Aula 05 — Gerenciamento de Estado Local
+# Aula 06 — Listas Simples e Renderização Condicional
 
 ## <i className="fa-solid fa-bullseye" style={{ color: 'var(--ifm-color-primary)' }}></i> Objetivo da aula
 

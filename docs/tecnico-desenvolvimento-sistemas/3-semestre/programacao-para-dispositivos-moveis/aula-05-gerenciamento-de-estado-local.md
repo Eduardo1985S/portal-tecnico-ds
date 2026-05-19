@@ -1,12 +1,12 @@
 ---
-id: tecnico-desenvolvimento-sistemas-3-semestre-programacao-dispositivos-moveis-aula-09-introduo-ao-react-navigation
-slug: /tecnico-desenvolvimento-sistemas/3-semestre/programacao-dispositivos-moveis/aula-09-introduo-ao-react-navigation
-sidebar_position: 9
-title: Aula 09 — Introdução ao React Navigation
-description: Aula 09 do curso de Programação para Dispositivos Móveis
+id: "tecnico-desenvolvimento-sistemas-3-semestre-programacao-para-dispositivos-moveis-aula-05-gerenciamento-de-estado-local"
+slug: "/tecnico-desenvolvimento-sistemas/3-semestre/programacao-para-dispositivos-moveis/aula-05-gerenciamento-de-estado-local"
+sidebar_position: 5
+title: "Aula 05 — Gerenciamento de Estado Local"
+description: "Aula 05 do curso de Programação para Dispositivos Móveis"
 ---
 
-# Aula 09 — Introdução ao React Navigation
+# Aula 05 — Gerenciamento de Estado Local
 
 ## <i className="fa-solid fa-bullseye" style={{ color: 'var(--ifm-color-primary)' }}></i> Objetivo da aula
 

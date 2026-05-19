@@ -1,12 +1,12 @@
 ---
-id: tecnico-desenvolvimento-sistemas-3-semestre-programacao-para-dispositivos-moveis-aula-01-introducao-react-native-expo
-slug: /tecnico-desenvolvimento-sistemas/3-semestre/programacao-para-dispositivos-moveis/aula-01-introducao-react-native-expo
-sidebar_position: 1
-title: Aula 01 — Introdução React Native Expo
-description: Descrição breve da aula
+id: "tecnico-desenvolvimento-sistemas-3-semestre-programacao-para-dispositivos-moveis-aula-16-efeitos-colaterais-e-ciclo-de-vida"
+slug: "/tecnico-desenvolvimento-sistemas/3-semestre/programacao-para-dispositivos-moveis/aula-16-efeitos-colaterais-e-ciclo-de-vida"
+sidebar_position: 16
+title: "Aula 16 — Efeitos Colaterais e Ciclo de Vida"
+description: "Aula 16 do curso de Programação para Dispositivos Móveis"
 ---
 
-# Aula 01 — Introdução React Native Expo
+# Aula 16 — Efeitos Colaterais e Ciclo de Vida
 
 ## <i className="fa-solid fa-bullseye" style={{ color: 'var(--ifm-color-primary)' }}></i> Objetivo da aula
 
@@ -33,10 +33,9 @@ Descreva uma atividade para o aluno praticar o conteúdo.
 ## <i className="fa-solid fa-list-check" style={{ color: 'var(--ifm-color-primary)' }}></i> Checklist de entrega
 
 - [ ] O aluno realizou a atividade proposta
-- [ ] O aluno organizou os arquivos corretamente
-- [ ] O aluno testou o que foi desenvolvido
-- [ ] O aluno entregou no formato solicitado
+- [ ] O aluno testou no emulador ou aparelho físico
+- [ ] O aluno subiu o código para o GitHub
 
-## <i className="fa-solid fa-clipboard" style={{ color: 'var(--ifm-color-primary)' }}></i> Observações do professor
+## <i className="fa-solid fa-rocket" style={{ color: 'var(--ifm-color-primary)' }}></i> Agora é com você!
 
-Espaço para anotações, adaptações e orientações adicionais.
+Espaço para o desafio final para encorajar o protagonismo do aluno.

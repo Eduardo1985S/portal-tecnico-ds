@@ -1,12 +1,12 @@
 ---
-id: tecnico-desenvolvimento-sistemas-3-semestre-programacao-dispositivos-moveis-aula-11-navegao-em-abas-tab-navigation
-slug: /tecnico-desenvolvimento-sistemas/3-semestre/programacao-dispositivos-moveis/aula-11-navegao-em-abas-tab-navigation
-sidebar_position: 11
-title: Aula 11 — Navegação em Abas (Tab Navigation)
-description: Aula 11 do curso de Programação para Dispositivos Móveis
+id: "tecnico-desenvolvimento-sistemas-3-semestre-programacao-para-dispositivos-moveis-aula-18-consumindo-api-metodo-get-com-fetch"
+slug: "/tecnico-desenvolvimento-sistemas/3-semestre/programacao-para-dispositivos-moveis/aula-18-consumindo-api-metodo-get-com-fetch"
+sidebar_position: 18
+title: "Aula 18 — Consumindo API (Método GET) com Fetch"
+description: "Aula 18 do curso de Programação para Dispositivos Móveis"
 ---
 
-# Aula 11 — Navegação em Abas (Tab Navigation)
+# Aula 18 — Consumindo API (Método GET) com Fetch
 
 ## <i className="fa-solid fa-bullseye" style={{ color: 'var(--ifm-color-primary)' }}></i> Objetivo da aula
 

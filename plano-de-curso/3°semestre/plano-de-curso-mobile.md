@@ -82,6 +82,8 @@
 - **Semana 19:** Prática Integrada (API + Navegação + FlatList)
   - Criando um App que lista personagens, filmes ou moedas usando uma API pública (ex: Rick and Morty API ou CoinGecko).
   - Listar dados e, ao clicar, ir para a tela de Detalhes.
-- **Semana 20:** Revisão Geral e Fechamento
+- **Semana 20:** Revisão Geral e Desafio Técnico (Simulação Dev Jr)
   - Revisão dos conceitos de navegação, estado e API.
-  - Apresentação de um mini-projeto prático feito pelos alunos.
+  - **Desafio Técnico Integrador:** Resolução do teste técnico real para vaga de Desenvolvedor Mobile Júnior: [teste-tecnico-dev-jr-mobile](https://github.com/Eduardo1985S/teste-tecnico-dev-jr-mobile).
+  - Apresentação final do portfólio desenvolvido no desafio como fechamento do semestre.
+

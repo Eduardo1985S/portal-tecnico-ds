@@ -1,9 +1,9 @@
 ---
-id: tecnico-desenvolvimento-sistemas-3-semestre-programacao-dispositivos-moveis-aula-02-componentes-estruturais-bsicos
-slug: /tecnico-desenvolvimento-sistemas/3-semestre/programacao-dispositivos-moveis/aula-02-componentes-estruturais-bsicos
+id: "tecnico-desenvolvimento-sistemas-3-semestre-programacao-para-dispositivos-moveis-aula-02-componentes-estruturais-basicos"
+slug: "/tecnico-desenvolvimento-sistemas/3-semestre/programacao-para-dispositivos-moveis/aula-02-componentes-estruturais-basicos"
 sidebar_position: 2
-title: Aula 02 — Componentes Estruturais Básicos
-description: Aula 02 do curso de Programação para Dispositivos Móveis
+title: "Aula 02 — Componentes Estruturais Básicos"
+description: "Aula 02 do curso de Programação para Dispositivos Móveis - Componentes Básicos View, Text e StyleSheet"
 ---
 
 # Aula 02 — Componentes Estruturais Básicos
@@ -92,6 +92,6 @@ Abra o projeto que você criou na Aula 01 (`meu-primeiro-app`) e vá até o arqu
 
 ## <i className="fa-solid fa-rocket" style={{ color: 'var(--ifm-color-primary)' }}></i> Agora é com você!
 
-Assuma o controle do seu aprendizado: crie mais duas caixas (`<View>`) abaixo da caixa amarela. Pinte uma de vermelho e outra de verde, e coloque textos diferentes dentro de cada uma delas. 
+Para dominar a programação, a prática constante é fundamental! Assuma o controle do seu aprendizado: crie mais duas caixas (`<View>`) abaixo da caixa amarela. Pinte uma de vermelho e outra de verde, e coloque textos diferentes dentro de cada uma delas. 
 
 Brinque com propriedades CSS que você já conhece do mundo web dentro do StyleSheet, como `margin`, `padding` e `borderWidth`. O React Native usa a maioria das regras do CSS, com a diferença que escrevemos no formato *camelCase* (em vez de `background-color`, usamos `backgroundColor`). Lembre-se: errar faz parte do processo, se der tela vermelha, leia o erro com calma!

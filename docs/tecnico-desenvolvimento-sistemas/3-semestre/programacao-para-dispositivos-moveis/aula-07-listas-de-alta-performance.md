@@ -1,12 +1,12 @@
 ---
-id: tecnico-desenvolvimento-sistemas-3-semestre-programacao-dispositivos-moveis-aula-13-bibliotecas-de-componentes-visuais
-slug: /tecnico-desenvolvimento-sistemas/3-semestre/programacao-dispositivos-moveis/aula-13-bibliotecas-de-componentes-visuais
-sidebar_position: 13
-title: Aula 13 — Bibliotecas de Componentes Visuais
-description: Aula 13 do curso de Programação para Dispositivos Móveis
+id: "tecnico-desenvolvimento-sistemas-3-semestre-programacao-para-dispositivos-moveis-aula-07-listas-de-alta-performance"
+slug: "/tecnico-desenvolvimento-sistemas/3-semestre/programacao-para-dispositivos-moveis/aula-07-listas-de-alta-performance"
+sidebar_position: 7
+title: "Aula 07 — Listas de Alta Performance"
+description: "Aula 07 do curso de Programação para Dispositivos Móveis"
 ---
 
-# Aula 13 — Bibliotecas de Componentes Visuais
+# Aula 07 — Listas de Alta Performance
 
 ## <i className="fa-solid fa-bullseye" style={{ color: 'var(--ifm-color-primary)' }}></i> Objetivo da aula
 

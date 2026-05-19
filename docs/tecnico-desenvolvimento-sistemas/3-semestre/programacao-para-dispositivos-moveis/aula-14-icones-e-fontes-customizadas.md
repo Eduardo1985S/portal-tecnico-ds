@@ -1,12 +1,12 @@
 ---
-id: tecnico-desenvolvimento-sistemas-3-semestre-programacao-dispositivos-moveis-aula-06-listas-simples-e-renderizao-condicional
-slug: /tecnico-desenvolvimento-sistemas/3-semestre/programacao-dispositivos-moveis/aula-06-listas-simples-e-renderizao-condicional
-sidebar_position: 6
-title: Aula 06 — Listas Simples e Renderização Condicional
-description: Aula 06 do curso de Programação para Dispositivos Móveis
+id: "tecnico-desenvolvimento-sistemas-3-semestre-programacao-para-dispositivos-moveis-aula-14-icones-e-fontes-customizadas"
+slug: "/tecnico-desenvolvimento-sistemas/3-semestre/programacao-para-dispositivos-moveis/aula-14-icones-e-fontes-customizadas"
+sidebar_position: 14
+title: "Aula 14 — Ícones e Fontes Customizadas"
+description: "Aula 14 do curso de Programação para Dispositivos Móveis"
 ---
 
-# Aula 06 — Listas Simples e Renderização Condicional
+# Aula 14 — Ícones e Fontes Customizadas
 
 ## <i className="fa-solid fa-bullseye" style={{ color: 'var(--ifm-color-primary)' }}></i> Objetivo da aula
 
