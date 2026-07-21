@@ -62,31 +62,3 @@ Navegue facilmente pelos materiais complementares do portal:
 *   📖 **[Tutoriais de Instalação e Ambientes](../tutoriais/instalar-git.md):** Guias passo a passo para configurar Git, Expo, Node.js e Docker.
 *   📂 **[Modelos de Projetos e Relatórios](../modelos/modelo-relatorio.md):** Templates prontos de documentação, relatórios e apresentações de projetos.
 *   🚀 **[Diretrizes de Projetos Integradores](../projetos/projeto-tcc.md):** Desafios e diretrizes de Projetos Integradores de semestres anteriores.
-
-<!-- CHECKPOINT id="ckpt_mpcqlbat_ruvyd8" time="2026-05-19T14:37:07.061Z" note="auto" fixes=0 questions=0 highlights=0 sections="" -->
-
-<!-- CHECKPOINT id="ckpt_mpcqy69j_8fcck6" time="2026-05-19T14:47:07.063Z" note="auto" fixes=0 questions=0 highlights=0 sections="" -->
-
-<!-- CHECKPOINT id="ckpt_mpcrb18j_btvpwf" time="2026-05-19T14:57:07.075Z" note="auto" fixes=0 questions=0 highlights=0 sections="" -->
-
-<!-- CHECKPOINT id="ckpt_mpcrnw7k_t1ytra" time="2026-05-19T15:07:07.088Z" note="auto" fixes=0 questions=0 highlights=0 sections="" -->
-
-<!-- CHECKPOINT id="ckpt_mpcs0r6f_t0izuu" time="2026-05-19T15:17:07.096Z" note="auto" fixes=0 questions=0 highlights=0 sections="" -->
-
-<!-- CHECKPOINT id="ckpt_mpcsdm56_k9y6cw" time="2026-05-19T15:27:07.098Z" note="auto" fixes=0 questions=0 highlights=0 sections="" -->
-
-<!-- CHECKPOINT id="ckpt_mpcsqh44_5cfqze" time="2026-05-19T15:37:07.108Z" note="auto" fixes=0 questions=0 highlights=0 sections="" -->
-
-<!-- CHECKPOINT id="ckpt_mpct3c2z_04aflx" time="2026-05-19T15:47:07.115Z" note="auto" fixes=0 questions=0 highlights=0 sections="" -->
-
-<!-- CHECKPOINT id="ckpt_mpctg72g_aboifu" time="2026-05-19T15:57:07.144Z" note="auto" fixes=0 questions=0 highlights=0 sections="" -->
-
-<!-- CHECKPOINT id="ckpt_mpctt21g_wf9yzp" time="2026-05-19T16:07:07.156Z" note="auto" fixes=0 questions=0 highlights=0 sections="" -->
-
-<!-- CHECKPOINT id="ckpt_mpcu5x0e_qw43q4" time="2026-05-19T16:17:07.166Z" note="auto" fixes=0 questions=0 highlights=0 sections="" -->
-
-<!-- CHECKPOINT id="ckpt_mpcuirze_h1o99d" time="2026-05-19T16:27:07.178Z" note="auto" fixes=0 questions=0 highlights=0 sections="" -->
-
-<!-- CHECKPOINT id="ckpt_mpcuvmy4_k3h1tm" time="2026-05-19T16:37:07.180Z" note="auto" fixes=0 questions=0 highlights=0 sections="" -->
-
-<!-- CHECKPOINT id="ckpt_mpcv8hwy_ky9ijs" time="2026-05-19T16:47:07.186Z" note="auto" fixes=0 questions=0 highlights=0 sections="" -->
